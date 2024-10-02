@@ -1,6 +1,6 @@
 ### Oi! eu sou o Luiz Furlanis
 
-- 💰 Programador
+- 💰 Estagiario em Ciencia de Dados
 - 📚 Cursando Bacharelado em Ciencia da Computaçao - IFSP
 
   
