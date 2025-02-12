@@ -1,6 +1,6 @@
 ### Oi! eu sou o Luiz Octavio Furlanis
 
-- 💰 Estagiario em Ciencia de Dados
+- 🤓 Analista de Sistemas de Automação
 - 📚 Cursando Bacharelado em Ciencia da Computaçao - IFSP
 
   
