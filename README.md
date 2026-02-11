@@ -1,7 +1,8 @@
 ### Oi! eu sou o Luiz Octavio Furlanis
 
-- 👨‍💻 R & Shiny | SQL | Python
-- 🤓 Analista de Sistemas de Automação
+R & Shiny | SQL | Python
+
+- 👨‍💻 Analista de Sistemas de Automação
 - 📚 Ciencia da Computaçao - EEP
 
 
